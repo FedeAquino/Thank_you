@@ -1,2 +1,2 @@
-# Thank_you
-Pagina de gracias 
+# GRACIAS
+Pagina que da las gracias luego de llenar un formulario.
